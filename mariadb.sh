@@ -8,5 +8,4 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 /opt/homebrew/bin/brew services restart mariadb
 /opt/homebrew/bin/brew install php
 /opt/homebrew/bin/brew install node
-
-
+/opt/homebrew/bin/brew install --cask mysqlworkbench
